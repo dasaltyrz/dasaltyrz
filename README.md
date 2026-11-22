@@ -1,16 +1,13 @@
-## Hi there 👋
+# hi, dasaltyrz here 👋
 
-<!--
-**dasaltyrz/dasaltyrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring memory safety, systems programming, and high-performance CLI tools. Based in Vietnam.
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: I debug faster with music on
+- 💬 Ask me about Linux
+- 🚀 Interested in low-level systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dasaltyrz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=onedark" alt="dasaltyrz GitHub stats" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasaltyrz&layout=compact&langs_count=8&hide_border=true&theme=onedark" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/Git-e3b341?style=for-the-badge&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Rust-e3b341?style=for-the-badge&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/C-e3b341?style=for-the-badge&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Linux-e3b341?style=for-the-badge&logoColor=white" alt="Linux" />
